@@ -1,0 +1,5 @@
+Type: AWS::Lambda::Function
+Properties: 
+  FunctionName: versioned-profiling-testing:12
+  MemorySize: 
+  Timeout: 
